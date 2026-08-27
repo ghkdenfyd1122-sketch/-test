@@ -1,0 +1,6 @@
+{
+  "name": "MLCC Binder Patent Search System",
+  "description": "Professional MLCC binder patent search and Excel export system with broad and narrow search modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
